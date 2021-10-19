@@ -30,6 +30,8 @@ You can clone the git repo or install using **pip**. Here's how you run it.
 * `sudo pip3 install slowloris`
 * `slowloris example.com`
 
+![Slowlaris](https://user-images.githubusercontent.com/56889513/137987460-b2ec965b-26d5-48b5-bc81-617ea7a8229b.JPG)
+
 That's all it takes to install and run slowloris.py.
 
 If you want to clone using git instead of pip, here's how you do it.
