@@ -4,8 +4,6 @@ Per capire cos’è un attacco DDoS, bisogna prima comprenderne la versione meno
 # Tipologie attacchi ddos
 A seconda dei metodi utilizzati e degli obiettivi che si propongono, gli attacchi DDoS possono essere raggruppati in quattro principali categorie. Ci sono quelli che prendono di mira la connessione TCP, puntando tutto sulla velocità. In questo caso, la botnet inonda il server di richieste di connessione, senza mai arrivare alla fine: così la banda di comunicazione del sistema informatico viene saturata in fretta, rendendo impossibile l’accesso ai contenuti da parte di qualunque utente. Un’altra tipologia di DDoS sono gli attacchi volumetrici in cui il volume di traffico creato è enorme e ingestibile. Discorso diverso, invece, per gli attacchi di frammentazione che ambiscono a consumare le risorse di calcolo del sistema informatico inviando richieste d’accesso incomplete. Come conseguenza l’oggetto dell’attacco usa gran parte delle proprie risorse per tentare di ricostruire l’informazione digitale ricevuta. Infine, ci sono gli attacchi applicativi che non puntano all’intera infrastruttura. Ma ne bersagliano un programma indispensabile, rendendolo instabile e quindi inutilizzabile.
 
-#Description
-
 Questa è una raccolta di svariati tools o strumenti per aiutarti a costruire le diverse tipologie di attacco Denial of service che esistono. 
 Scritto completamente in python, tranne che per uno strumento dove si è usato golang
 
