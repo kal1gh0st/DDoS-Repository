@@ -1,6 +1,6 @@
 # MM-attack
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="70" height="70"/>
   </p>
   
