@@ -1,6 +1,10 @@
-# Golang-httpflood ![](https://img.shields.io/badge/Version-2.0-brightgreen.svg) ![](https://img.shields.io/badge/license-MIT-blue.svg)
+# Golang-httpflood 
 Using Golang(net/socket) to httpflood
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="70" height="70" />
+  </p>
+  
 **Warning: Please use command "ulimit -n 999999" before use this in linux**
 
 **1 Threads =  1 connection, 100~300 connections can down a normal website in 10s(specially apache server LOL)**
